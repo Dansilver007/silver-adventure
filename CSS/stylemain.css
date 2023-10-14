@@ -1,0 +1,6 @@
+table,th,td {
+    border: 3px groove blueviolet;
+    width: 100%;
+    border-collapse:collapse;
+   
+}
